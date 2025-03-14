@@ -1,10 +1,12 @@
-# Welcome to Our Repository! 🚀
+# Welcome to Our Repository... Dead Ass 👀
 
 ## Who We Are:
-We are **Pubest** and **Phanudet**, two **CPE students** from **Chiang Mai University (CMU)**, constantly working on fun and challenging projects! Whether it's building something new or just trying to break things, we're always exploring the world of software development. 😎
+We are **Pubest** and **Phanudet**, two **CPE students** from **Chiang Mai University (CMU)**, out here tryna code like it's a full-time job (but really, it’s just school and the occasional nap). Our code? Might break. Our memes? On point. 😎
+
+We’re just two students who discovered the beauty of **debugging** at 2 AM and realized we might need a bit more caffeine in our lives. If you see us online at ungodly hours, don't worry, we’re just out here making cool stuff (and low-key praying it works).
 
 ## Our Tech Stack:
-We work with a bunch of cool tools and languages that keep us up all night (in the best way possible). Here's what we use to make things happen:
+We live in the code jungle, swinging between languages and tools, just trying not to fall into the void. Here’s the stack that fuels the late-night grind:
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -32,13 +34,13 @@ We work with a bunch of cool tools and languages that keep us up all night (in t
 
 ## Interested Technologies 🔍
 
-We’re also exploring some new and exciting tech that we’re eager to dive deeper into:
+We also found some other shiny new toys we’re *low-key* obsessed with:
 
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-These are just some of the new technologies we're excited to work with and learn more about in the near future. Stay tuned for updates! 📡
+We're out here trying to understand them and figure out if they actually work or if we’re just vibing. 😅
 
 ---
 
-**Let’s make something awesome together!** 💻✨
+**Let’s make something awesome... and maybe break a few things along the way!** 💻🔥

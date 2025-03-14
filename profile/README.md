@@ -1,11 +1,11 @@
 # Welcome to Our Repository... Dead Ass 👀
 
-## Who We Are:
+## Who We Are :accessibility: :
 We are **Pubest** and **Phanudet**, two **CPE students** from **Chiang Mai University (CMU)**, out here tryna code like it's a full-time job (but really, it’s just school and the occasional nap). Our code? Might break. Our memes? On point. 😎
 
 We’re just two students who discovered the beauty of **debugging** at 2 AM and realized we might need a bit more caffeine in our lives. If you see us online at ungodly hours, don't worry, we’re just out here making cool stuff (and low-key praying it works).
 
-## Our Tech Stack:
+## Our Tech Stack💻:
 We live in the code jungle, swinging between languages and tools, just trying not to fall into the void. Here’s the stack that fuels the late-night grind:
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
